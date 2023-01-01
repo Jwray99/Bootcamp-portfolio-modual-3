@@ -1,0 +1,23 @@
+html,
+body {
+width: 100%;
+height: 100%;
+}
+
+body {
+font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
+}
+
+.jumbotron{
+    background: url("../images/banner-for-portfolio.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.projects img{
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    margin: auto;
+
+}
