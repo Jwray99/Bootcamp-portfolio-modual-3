@@ -21,3 +21,13 @@ font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
     margin: auto;
 
 }
+
+.landscape{
+    max-height: 600px;
+    max-width: 600px;
+}
+
+.portrait{
+    max-height: 400px;
+    max-width: ;
+}
